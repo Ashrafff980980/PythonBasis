@@ -16,3 +16,9 @@ print(leeftijd)
 #-56=int
 #2001.99=float
 #"k1ngd0m"=str
+
+#opdracht4;
+
+"Naam:\tPython\nVersie:\t3.12"
+#\t=laat je spatie {tab} doen en \n laat je nieuwe regel doen
+
