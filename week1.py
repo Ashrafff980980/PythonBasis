@@ -1,4 +1,5 @@
-#opdracht1
+#opdracht1 Beginner;
+from operator import truediv
 
 print("Hello World")
 
@@ -21,4 +22,19 @@ print(leeftijd)
 
 "Naam:\tPython\nVersie:\t3.12"
 #\t=laat je spatie {tab} doen en \n laat je nieuwe regel doen
+
+#opdracht5 Intermediate;
+int=20
+print(int)
+
+float=20.5
+print(float)
+
+str="Ashraf the goat"
+print(str)
+
+bool=True
+print(bool)
+
+#opdracht6
 
